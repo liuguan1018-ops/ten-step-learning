@@ -1,0 +1,7 @@
+interface:
+  display_name: "十步学习法"
+  short_description: "从多视角研究到课程、考试、费曼复述与复习的完整学习流程"
+  default_prompt: "Use $ten-step-learning to guide me through the ten-step method for a topic I want to learn."
+
+policy:
+  allow_implicit_invocation: true
